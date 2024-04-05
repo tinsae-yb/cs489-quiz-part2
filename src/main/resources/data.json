@@ -1,0 +1,63 @@
+{
+  "contacts": [
+    {
+      "firstName": "David",
+      "lastName": "Sanger",
+      "company": "Argos LLC",
+      "job": "Sales Manager",
+      "emails": [
+        {
+          "email": "dave.sang@gmail.com",
+          "label": "Home"
+        },
+        {
+          "email": "dsanger@argos.com",
+          "label": "Work"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "240-133-0011",
+          "label": "Home"
+        },
+        {
+          "phone": "240-112-0123",
+          "label": "Mobile"
+        }
+      ]
+    },
+
+    {
+      "firstName": "Carlos",
+      "lastName": "Jimenez",
+      "company": "Zappos",
+      "job": "Director",
+      "emails": [
+
+      ],
+      "phones": [
+
+      ]
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Gafar",
+      "company": "BMI services",
+      "job": "HR Manager",
+      "emails": [
+
+        {
+          "email": "ali@bmi.com",
+          "label": "Work"
+        }
+      ],
+      "phones": [
+        {
+          "phone": "412-116-9988",
+          "label": "Work"
+        }
+
+      ]
+    }
+  ]
+}
